@@ -1,0 +1,15 @@
+.container{
+  text-align: center;
+  margin: 50px;
+}
+.whole-drum{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  grid-template-rows: 1fr 1fr 1fr;
+  margin: 50px auto;
+  width: 400px;
+  height: 400px;
+  border: 2px solid rgb(8, 8, 167);
+  background: linear-gradient(rgb(8,8,167),rgb(30,40,50),rgb(120,140,35));
+}
