@@ -13,3 +13,8 @@
   border: 2px solid rgb(8, 8, 167);
   background: linear-gradient(rgb(8,8,167),rgb(30,40,50),rgb(120,140,35));
 }
+.drum-pad{
+  color: black;
+  background-color: cadetblue;
+  
+}
